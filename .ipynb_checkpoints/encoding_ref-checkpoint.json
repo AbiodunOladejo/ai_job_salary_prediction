@@ -1,0 +1,123 @@
+{
+  "cat_cols": [
+    "job_title",
+    "experience_level",
+    "employment_type",
+    "company_location",
+    "company_size",
+    "education_required",
+    "industry"
+  ],
+  "num_cols": [
+    "remote_ratio",
+    "years_experience",
+    "job_description_length",
+    "benefits_score",
+    "same_country"
+  ],
+  "all_titles": [
+    "AI Architect",
+    "AI Consultant",
+    "AI Product Manager",
+    "AI Research Scientist",
+    "AI Software Engineer",
+    "AI Specialist",
+    "Autonomous Systems Engineer",
+    "Computer Vision Engineer",
+    "Data Analyst",
+    "Data Engineer",
+    "Data Scientist",
+    "Deep Learning Engineer",
+    "Head of AI",
+    "ML Ops Engineer",
+    "Machine Learning Engineer",
+    "Machine Learning Researcher",
+    "NLP Engineer",
+    "Principal Data Scientist",
+    "Research Scientist",
+    "Robotics Engineer"
+  ],
+  "all_industries": [
+    "Automotive",
+    "Consulting",
+    "Education",
+    "Energy",
+    "Finance",
+    "Gaming",
+    "Government",
+    "Healthcare",
+    "Manufacturing",
+    "Media",
+    "Real Estate",
+    "Retail",
+    "Technology",
+    "Telecommunications",
+    "Transportation"
+  ],
+  "all_locations": [
+    "Australia",
+    "Austria",
+    "Canada",
+    "China",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "India",
+    "Ireland",
+    "Israel",
+    "Japan",
+    "Netherlands",
+    "Norway",
+    "Singapore",
+    "South Korea",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "United States"
+  ],
+  "edu_options": [
+    "Associate",
+    "Bachelor",
+    "Master",
+    "PhD"
+  ],
+  "exp_options": {
+    "EN": "Entry-Level",
+    "MI": "Mid-Level",
+    "SE": "Senior",
+    "EX": "Executive"
+  },
+  "size_options": {
+    "S": "Small (<50)",
+    "M": "Medium (50-250)",
+    "L": "Large (>250)"
+  },
+  "emp_options": {
+    "FT": "Full-Time",
+    "PT": "Part-Time",
+    "CT": "Contract",
+    "FL": "Freelance"
+  },
+  "remote_options": {
+    "0": "On-site",
+    "50": "Hybrid",
+    "100": "Fully Remote"
+  },
+  "best_params": {
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "n_estimators": 200
+  },
+  "cv_scores": [
+    0.8881,
+    0.879,
+    0.8778,
+    0.8802,
+    0.8847
+  ],
+  "cv_mean": 0.882,
+  "cv_std": 0.0038,
+  "tuned_mae": 12945.0,
+  "tuned_r2": 0.8841
+}
