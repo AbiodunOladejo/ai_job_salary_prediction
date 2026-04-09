@@ -2,7 +2,7 @@
 
 A complete end-to-end machine learning project that predicts annual salary (USD) for AI/tech roles across 20 countries. Built as Portfolio Project #1 to demonstrate the full data science workflow — from raw data to a deployed web application.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/user/AbiodunOladejo)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abiodun-ai-salary-prediction.streamlit.app)
 
 ---
 
